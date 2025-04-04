@@ -10,8 +10,9 @@ This **Threat Detection Application** leverages an AI model to allows users to:
 
 This app was built using **Typescript** for the frontend, **Flask** + **Express** for the backend, and is currently using a custom built Natural Language Processing model.
 
-**Repo spats**
-[![wakatime](https://wakatime.com/badge/github/Yukin3/content-threat-detection.svg)](https://wakatime.com/badge/github/Yukin3/content-threat-detection)
+**Repo stats**
+![GitHub deployments](https://img.shields.io/github/deployments/Yukin3/content-threat-detection/production) [![wakatime](https://wakatime.com/badge/github/Yukin3/content-threat-detection.svg)](https://wakatime.com/badge/github/Yukin3/content-threat-detection)
+![GitHub contributors](https://img.shields.io/github/contributors/Yukin3/content-threat-detection) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Yukin3/content-threat-detection)
 
 ---
 
@@ -20,6 +21,8 @@ This app was built using **Typescript** for the frontend, **Flask** + **Express*
 - **Frontend:** React.js, Typescript
 - **Backend:** Express, Flask
 - **ML Model:** PyTorch, Keras
+
+![GitHub language count](https://img.shields.io/github/languages/count/Yukin3/content-threat-detection) ![GitHub top language](https://img.shields.io/github/languages/top/Yukin3/content-threat-detection)
 
 ---
 
