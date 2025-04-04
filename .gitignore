@@ -3,6 +3,7 @@ node_modules/
 .env
 dist/
 build/
+<<<<<<< HEAD
 scripts/tweets_final.csv
 py-backend/data
 
@@ -27,3 +28,5 @@ env/
 #?
 notebooks/notebooks/ 
 datasets
+=======
+>>>>>>> fa2384e (Initial commit: frontend + backend)
