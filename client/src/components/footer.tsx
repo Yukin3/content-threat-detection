@@ -16,7 +16,7 @@ export default function Footer() {
               <span className="text-xl font-bold">CyberSentry</span>
             </div>
             <div className="flex gap-8">
-              <Link to="/about" className="text-muted-foreground hover:text-primary">
+              <Link to="https://github.com/Yukin3/content-threat-detection?tab=readme-ov-file#-cybersentry" target="_blank" className="text-muted-foreground hover:text-primary">
                 About
               </Link>
               <Link to="/privacy" className="text-muted-foreground hover:text-primary">
