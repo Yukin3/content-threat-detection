@@ -1,4 +1,3 @@
-import { toast } from "sonner";
 
 const env = import.meta.env;
 
@@ -33,7 +32,6 @@ export async function classifyContent(
     };
   } catch (error) {
     console.error("Classification error:", error);
-    toast({ title: "Error", description: String(error), variant: "destructive" })
     return { label: "error", confidence: 0 };
   }
 }
