@@ -1,0 +1,15 @@
+text,top_label,confidence,alt_label,alt_score
+Explosion at the airport. Multiple injuries reported.,LABEL_1,0.8506,LABEL_0,0.1494
+I had a great day at the park with my dog.,LABEL_0,0.9999,LABEL_1,0.0001
+Severe flooding in the downtown area after heavy rains.,LABEL_1,0.9999,LABEL_0,0.0001
+El terremoto destruyó varios edificios en el centro.,LABEL_1,0.9999,LABEL_0,0.0001
+Feuer bricht in einem Wohnhaus aus. Bewohner evakuiert.,LABEL_1,0.9999,LABEL_0,0.0001
+"It's just a drill, don't panic.",LABEL_0,0.9999,LABEL_1,0.0001
+Felt like the whole building shook—turns out it was just my upstairs neighbor dropping weights,LABEL_0,0.9999,LABEL_1,0.0001
+ACTIVE SHOOTER!! The 37 lightskin male just hit his 8th shot of the night.,LABEL_0,0.9999,LABEL_1,0.0001
+Bus crash on Highway 5. Multiple fatalities reported. Avoid the area.,LABEL_0,0.9997,LABEL_1,0.0003
+That smoke? Just the BBQ competition down the block. Smells like chaos.,LABEL_0,0.9999,LABEL_1,0.0001
+People screaming outside—turns out it was a surprise birthday party with fireworks.,LABEL_0,0.9999,LABEL_1,0.0001
+"Caught the sunset with my best friend. Simple moments, big joy.",LABEL_0,0.9999,LABEL_1,0.0001
+Help! There’s a massive fire on 4th street!,LABEL_1,0.9999,LABEL_0,0.0001
+RT @disaster_news: Stay safe everyone in Florida!,LABEL_1,0.9998,LABEL_0,0.0002
