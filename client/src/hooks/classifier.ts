@@ -2,7 +2,7 @@
 const env = import.meta.env;
 
 const API_URL =
-  env.VITE_API_URL || "http://localhost:8080/api"; // fallback for local dev
+    env.VITE_API_URL || "https://cybersentry.onrender.com/api"; // prod fallback
 
 export async function classifyContent(
   content: string,
