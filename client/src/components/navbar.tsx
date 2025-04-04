@@ -60,8 +60,8 @@ export default function Navbar() {
                         <Link to="/dashboard" className="font-medium hover:text-primary">Dashboard</Link>
                     )}
                     <Link to="/analyze" className="font-medium hover:text-primary">Analyze</Link>
-                    <Link to="https://www.kaggle.com/datasets/ishansurana1234/tweets-dataset-for-cyberattack-detection?select=tweets_final.csv" target="_blank" className="font-medium hover:text-primary">Datasets</Link>
-                    <Link to="https://github.com/Yukin3/content-threat-detection" target="_blank" className="font-medium hover:text-primary">Contribute</Link>              
+                    <Link to="/data" target="_blank" className="font-medium hover:text-primary">Datasets</Link>
+                    <Link to="/contribute" target="_blank" className="font-medium hover:text-primary">Contribute</Link>              
                     </nav>
 
                 {/* R: Display toggle & Auth/User */}
