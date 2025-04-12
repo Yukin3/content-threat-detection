@@ -1,0 +1,29 @@
+# Global
+node_modules/
+.env
+dist/
+build/
+scripts/tweets_final.csv
+py-backend/data
+
+
+# Python + notebooks cache
+__pycache__/
+*.pyc
+*.ipynb_checkpoints
+
+# Virtual environments 
+env/
+.venv/
+
+# Hugging Face cache
+~/.cache/huggingface/
+~/.cache/torch/
+*.bin
+
+# OS + Jupyter extras
+.DS_Store
+.ipynb_checkpoints/
+#?
+notebooks/notebooks/ 
+datasets
