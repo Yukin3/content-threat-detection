@@ -4,6 +4,9 @@ node_modules/
 dist/
 build/
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> dd33bb4 (chore: Jupyter Notebooks work)
 scripts/tweets_final.csv
 py-backend/data
 
@@ -25,8 +28,11 @@ env/
 # OS + Jupyter extras
 .DS_Store
 .ipynb_checkpoints/
+<<<<<<< HEAD
 #?
 notebooks/notebooks/ 
 datasets
 =======
 >>>>>>> fa2384e (Initial commit: frontend + backend)
+=======
+>>>>>>> dd33bb4 (chore: Jupyter Notebooks work)
